@@ -1,0 +1,19 @@
+{
+  "name": "mynodechat",
+  "version": "1.0.0",
+  "description": "original test package",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "underscore": "^1.5.2",
+    "express": "^3.0.6",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "pj",
+  "license": "ISC"
+}
